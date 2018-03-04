@@ -1,0 +1,38 @@
+
+
+:root{
+    --background-color: transparent;
+    --tab-inactive-background: transparent;
+
+    --titlebar-background-color: #e7e7e7;
+    --titlebar-foreground-color: black;
+    --titlebar-foreground-faded: #7f7f7f;
+
+    --tab-background-color: #c0c0c0;
+    --tab-foreground-color: rgb(45,45,45);
+
+    --button-foreground-color: black;
+    --button-background-color: whitesmoke;
+
+    --tab-hover-background: rgba(45,45,45,0.6);
+    --tab-close-color: deeppink;
+
+
+    --searchbox-background-active: white;
+    --searchbox-background-hovered: rgba(255,255,255,0.8);
+    --searchbox-background-blured: whitesmoke;
+    --searchbox-foreground-active: #212121;
+
+    --system-drop-shadow: 0 2px 10px -5px gray;
+    --searchbox-shadow: 0 2px 10px -6px gray;
+
+    --website-security-bad: #ca344c;
+    --website-security-okay:forestgreen;
+    --website-url-color: #212121;
+    --website-path-color: rgba(97, 97, 97, 0.6);
+    --website-path-color-light: rgba(255, 255, 255, 0.6);
+
+    --highlight-base:#03A9F4;
+
+    --context-menu-background: rgba(255,255,255,0.65)
+}
